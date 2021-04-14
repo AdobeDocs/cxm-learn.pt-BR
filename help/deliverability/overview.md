@@ -1,17 +1,17 @@
 ---
-title: Capacidade de entrega
+title: Avaliação do delivery
 description: Esta é a visão geral do artigo.
-keywords: DDOM, deliverability
-translation-type: tm+mt
+keywords: DDOM, avaliação do delivery
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '11'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Visão geral da capacidade de entrega
+# Visão geral da avaliação do delivery
 
 Bem-vindo.
 
