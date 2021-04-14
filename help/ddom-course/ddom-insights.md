@@ -1,17 +1,17 @@
 ---
-title: Insights e aprendizados do DDOM
-description: 'Saiba mais sobre alguns dos insights que o DDOM ajudou a Adobe e a descobrir mais sobre algumas das considerações a serem seguidas ao configurar sua própria versão do DDOM. '
-translation-type: tm+mt
+title: Informações e aprendizados do DDOM
+description: 'Conheça algumas das informações que a Adobe descobriu com a ajuda do DDOM e saiba o que levar em consideração ao configurar sua própria versão do DDOM. '
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Insights e aprendizados do DDOM
+# Informações e aprendizados do DDOM
 
-Saiba mais sobre alguns dos insights que o DDOM ajudou a Adobe e a descobrir mais sobre algumas das considerações a serem seguidas ao configurar sua própria versão do DDOM.
+Conheça algumas das informações que a Adobe descobriu com a ajuda do DDOM e saiba o que levar em consideração ao configurar sua própria versão do DDOM.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41693)
