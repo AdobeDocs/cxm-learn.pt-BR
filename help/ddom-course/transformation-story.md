@@ -1,17 +1,17 @@
 ---
-title: História de transformação de Adobe
-description: Saiba mais sobre a função que o DDOM desempenhou na transformação digital do Adobe.
-translation-type: tm+mt
+title: História de transformação da Adobe
+description: Saiba mais sobre o papel desempenhado pelo DDOM na transformação digital da Adobe.
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '30'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# História de transformação de Adobe
+# História de transformação da Adobe
 
-Saiba mais sobre a função que o DDOM desempenhou na transformação digital do Adobe.
+Saiba mais sobre o papel desempenhado pelo DDOM na transformação digital da Adobe.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41691)
