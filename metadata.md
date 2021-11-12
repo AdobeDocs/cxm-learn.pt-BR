@@ -4,18 +4,17 @@ mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/cxm-learn.pt-BR
 index: false
 hide: true
-translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
 # Metadados para uso interno
 
-O arquivo metadata.md inclui metadados de nível de repositório que passa para os arquivos TOC.md do guia do usuário no repositório. Se quiser alterar o conteúdo do arquivo metadata.md para qualquer guia do usuário, use qualquer arquivo TOC.md.
+O arquivo metadata.md inclui metadados de nível de repositório que passa pelos arquivos TOC.md do guia do usuário no repositório. Se quiser alterar o conteúdo do arquivo metadata.md para qualquer guia do usuário, use qualquer arquivo TOC.md.
 
 | metadados | o que fazem |
 |--- |--- |
@@ -31,5 +30,5 @@ No arquivo TOC.md
 
 | metadados | o que fazem |
 |--- |--- |
-| título do guia do usuário | Usado no cabeçalho do artigo como link |
-| url de guia do usuário | Abre a página do hub helpx |
+| user-guide-title | Usado no cabeçalho do artigo como link |
+| user-guide-url | Abre a página do hub helpx |
