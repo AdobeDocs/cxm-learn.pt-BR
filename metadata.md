@@ -1,11 +1,11 @@
 ---
 cloud: Experience Cloud
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/cxm-learn.pt-BR
+git-repo: https://github.com/AdobeDocs/cxm-learn.pt-BR
 index: false
 hide: true
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%
 
