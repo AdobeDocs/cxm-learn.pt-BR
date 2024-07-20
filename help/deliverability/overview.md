@@ -2,14 +2,13 @@
 title: Avaliação do delivery
 description: Esta é a visão geral do artigo.
 keywords: DDOM, avaliação do delivery
-translation-type: ht
-source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: ht
+exl-id: 42d0b3bd-178c-40c7-bcb0-b924310eccf2
+source-git-commit: 5a22a4f547b02989e175a15598516b80d7711cac
+workflow-type: tm+mt
 source-wordcount: '11'
 ht-degree: 100%
 
 ---
-
 
 # Visão geral da avaliação do delivery
 
